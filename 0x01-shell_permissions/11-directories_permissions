@@ -1,2 +1,2 @@
 #!/bin/bash
-cd dir 777 
+cd dir 544 755 755 
