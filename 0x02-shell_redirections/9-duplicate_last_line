@@ -1,0 +1,2 @@
+#!/bin/bash
+tail -n 1 iacta | awk '{printf ">" $0}2' iacta
